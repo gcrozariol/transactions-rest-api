@@ -29,7 +29,7 @@
   "devDependencies": {
     "@rocketseat/eslint-config": "^1.2.0",
     "@types/node": "^20.8.10",
-    "@types/supertest": "^2.0.12",
+    "@types/supertest": "^2.0.16",
     "eslint": "^8.53.0",
     "sqlite3": "^5.1.6",
     "supertest": "^6.3.3",
