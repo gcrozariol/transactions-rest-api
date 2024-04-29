@@ -21,8 +21,8 @@ dependencies:
     specifier: ^8.11.5
     version: 8.11.5
   zod:
-    specifier: ^3.23.0
-    version: 3.23.0
+    specifier: ^3.23.4
+    version: 3.23.4
 
 devDependencies:
   '@rocketseat/eslint-config':
@@ -4798,6 +4798,6 @@ packages:
     engines: {node: '>=12.20'}
     dev: true
 
-  /zod@3.23.0:
-    resolution: {integrity: sha512-OFLT+LTocvabn6q76BTwVB0hExEBS0IduTr3cqZyMqEDbOnYmcU+y0tUAYbND4uwclpBGi4I4UUBGzylWpjLGA==}
+  /zod@3.23.4:
+    resolution: {integrity: sha512-/AtWOKbBgjzEYYQRNfoGKHObgfAZag6qUJX1VbHo2PRBgS+wfWagEY2mizjfyAPcGesrJOcx/wcl0L9WnVrHFw==}
     dev: false
