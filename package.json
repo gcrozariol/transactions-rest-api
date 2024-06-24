@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@rocketseat/eslint-config": "^2.2.2",
-    "@types/node": "^20.14.2",
+    "@types/node": "^20.14.8",
     "@types/supertest": "^6.0.2",
     "eslint": "^8.57.0",
     "sqlite3": "^5.1.7",
