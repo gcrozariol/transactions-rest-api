@@ -1,5 +1,5 @@
-import request from 'supertest'
 import { execSync } from 'node:child_process'
+import request from 'supertest'
 import { afterAll, beforeAll, beforeEach, describe, expect, it } from 'vitest'
 import { app } from '../src/app'
 
@@ -83,7 +83,7 @@ describe('Transaction routes', () => {
     ])
   })
 
-  it.only('should be able to get the summary', async () => {
+  it('should be able to get the summary', async () => {
     const createTransactionResponse = await request(app.server)
       .post('/transactions')
       .send({
