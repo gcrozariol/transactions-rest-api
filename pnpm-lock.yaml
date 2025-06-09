@@ -25,7 +25,7 @@ importers:
         version: 8.16.0
       zod:
         specifier: ^3.24.4
-        version: 3.25.47
+        version: 3.25.56
     devDependencies:
       '@rocketseat/eslint-config':
         specifier: ^2.2.2
@@ -3130,8 +3130,8 @@ packages:
     resolution: {integrity: sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==}
     engines: {node: '>=10'}
 
-  zod@3.25.47:
-    resolution: {integrity: sha512-+f8+agSYoT9niC0VUL60IuXnr81FJeJ27Lf5YPrmcxTWmygcpGBeEuAAovDDEjkyQ36KyqNswwbhISZ1Z7yY+A==}
+  zod@3.25.56:
+    resolution: {integrity: sha512-rd6eEF3BTNvQnR2e2wwolfTmUTnp70aUTqr0oaGbHifzC3BKJsoV+Gat8vxUMR1hwOKBs6El+qWehrHbCpW6SQ==}
 
 snapshots:
 
@@ -6347,4 +6347,4 @@ snapshots:
 
   yocto-queue@0.1.0: {}
 
-  zod@3.25.47: {}
+  zod@3.25.56: {}
